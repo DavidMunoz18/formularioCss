@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+.DAT{
+	background-color: rgb(192, 192, 192);
+	border: 1px solid black;
+}
+.FOR{
+	background-color: rgb(255, 255, 128);
+	border: 1px solid black;
+}
+.DOC{
+	background-color: rgb(255, 128, 128);
+	border: 1px solid black;
+}
+div{
+	border: 1px solid black;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+input:hover{
+	background-color: yellow;
+}
+input:focus{
+	background-color: red;
+}
+.s1{
+	margin-left: 4%;
+}
+.s2{
+	margin-left: 4%;
+}
+.s3{
+	margin-left: 4%;
+}
+.s4{
+	margin-left: 4%;
+}
+.s5{
+	margin-left: 4%;
+}
